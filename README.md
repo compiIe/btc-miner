@@ -1,6 +1,4 @@
 # btc miner
-mines and sends bitcoin to your bitcoin address
-
-supports linux and windows
+This program mines btc using slushpool, and supports windows and linux.
 
 Made by Alcoss
