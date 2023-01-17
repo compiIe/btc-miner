@@ -1,4 +1,4 @@
 # btc miner
-This program mines btc using slushpool, and supports windows and linux.
+A python program that mines bitcoin with cgminer, joining bitcoin mining pools provided by https://braiins.com/pool
 
 Made by Alcoss
